@@ -1,0 +1,21 @@
+# .NET & Visual Studio build outputs
+bin/
+obj/
+bin_release/
+bin_framework/
+src_csharp/bin/
+src_csharp/obj/
+*.user
+*.suo
+*.pdb
+
+# Executables
+AutoClicker.exe
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/

@@ -1,0 +1,18 @@
+{
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 0,
+    "milliseconds": 10.0,
+    "use_jitter": false,
+    "jitter_ms": 15.0,
+    "mouse_button": "left",
+    "click_type": "single",
+    "location_mode": "current",
+    "fixed_x": 1666,
+    "fixed_y": 475,
+    "repeat_mode": "infinite",
+    "repeat_count": 100,
+    "hotkey_toggle": "F6",
+    "hotkey_pick": "F7",
+    "always_on_top": true
+}
